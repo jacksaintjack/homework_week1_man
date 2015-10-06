@@ -1,0 +1,20 @@
+{
+  "name": "homework",
+  "version": "0.0.0",
+  "authors": [
+    "Nicholas Glover <jacksaintjack@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.4.0",
+    "normalize-css": "normalize.css#~3.0.3",
+    "normalize-strings": "normalize#~1.0.4"
+  }
+}
